@@ -9,12 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "@babel/core": "^7.17.9",
     "@babel/node": "^7.16.8",
     "@babel/preset-env": "^7.16.11",
     "body-parser": "^1.20.2",
+=======
+    "@babel/core": "^7.21.8",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.21.5",
+>>>>>>> 40c04fd3003a8a927b9857754037b545504476f0
     "cors": "^2.8.5",
     "express": "^4.17.3",
-    "nodemon": "^2.0.15"
+    "express-list-endpoints": "^6.0.0",
+    "nodemon": "^2.0.22"
   }
 }
